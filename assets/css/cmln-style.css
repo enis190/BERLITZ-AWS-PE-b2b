@@ -409,6 +409,8 @@ p {
   .btn-fixed-call.active {
     right: 0px; }
 
+    
+
 @keyframes c_keyframe__btn_fixed {
   0% {
     border: 2px solid #FF495C; }
